@@ -1,0 +1,23 @@
+/*style.css*/
+
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+li {
+    
+    color: brown;
+    text-align: center;
+    list-style: inside;
+}
+
+
+body {
+    background-color:bisque
+}
+
+img {
+    position:relative;
+    left: 40%;
+}

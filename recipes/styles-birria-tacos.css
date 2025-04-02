@@ -1,0 +1,33 @@
+/*style.css birria-tacos*/
+
+h1 {
+    font-style: italic;
+}
+
+ul,ol {
+    color: brown;
+    border: 2px solid olive;
+    background-color: whitesmoke;
+}
+
+p {
+    font-weight: 800;
+    font-style: italic;
+    border: 5px solid olive;
+    padding: 5px;
+    background-color: whitesmoke;
+}
+
+li {
+    color: black;
+    font-weight: 800;
+}
+
+button {
+     background-color: black;
+     color: white;
+}
+
+body {
+    background-color:bisque
+}
